@@ -1,0 +1,5 @@
+"*.pt" 
+"*.pkl" 
+"*.safetensors" 
+"*/modelos/" 
+"__pycache__/" 
